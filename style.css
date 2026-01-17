@@ -36,7 +36,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 
 a {
@@ -83,12 +83,12 @@ section.imagem > p {
 }
 
 section#img01{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(imagens/background001.jpg);
     background-position: right center;
 }
 
 section#img02{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(imagens/background002.jpg);
     background-position: right bottom;
 }
 
